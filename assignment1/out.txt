@@ -1,0 +1,16 @@
+SUCCESS: Operator + with size 1 is placed on (3,2).
+SUCCESS: Operator - with size 1 is placed on (1,4).
+SUCCESS: Operator x with size 1 is placed on (3,5).
+SUCCESS: Operator / with size 2 is placed on (7,7).
+BORDER ERROR: Operator - with size 15 can not be placed on (3,4).
+CONFLICT ERROR: Operator - with size 15 can not be placed on (3,4).
+SUCCESS: Operator + with size 2 is placed on (6,3).
+SUCCESS: Operator - with size 2 is placed on (5,6).
+SUCCESS: x moved from (3,5) to (3,8).
+SUCCESS: - moved from (1,4) to (2,4).
+SUCCESS: x moved from (3,8) to (2,8).
+SUCCESS: - moved from (5,6) to (4,6).
+SUCCESS: - moved from (4,6) to (4,8).
+SUCCESS: + moved from (6,3) to (6,4).
+BORDER ERROR: + cannot be moved from (6,4) to (2,4).
+CONFLICT ERROR: + cannot be moved from (6,4) to (2,4).
